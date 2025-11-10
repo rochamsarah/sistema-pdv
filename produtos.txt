@@ -1,0 +1,5 @@
+Banana 23,00 38,55
+Mamao 4,00 30,00
+Coco 3,00 30,00
+Macaxeira 12,90 24,35
+Laranja 10,00 28,00
