@@ -40,3 +40,9 @@ Como **Designer há 12 anos** e atual graduanda em **Engenharia de Software na F
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/rochamsarah/sistema-pdv.git](https://github.com/rochamsarah/sistema-pdv.git)
+2. Compile o código:
+   ```bash
+   gcc main.c -o pdv
+3. Execute o programa:
+   ```bash
+   ./pdv
